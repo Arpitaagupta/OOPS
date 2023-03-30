@@ -1,0 +1,17 @@
+PascalConvention
+-->First letter of each word will be in upper case
+-->for classes we use Pascal Convention
+
+
+camelCaseConvention
+-->First letter of first word will be in lower case, followed by first letter of each word will be in upper case.
+-->without space b/w words
+->for function we use Pascal Convention
+
+
+Example :
+AddTwoNumbers --> Pascal Naming Convention
+addTwoNumbers --> Camel Case Naming Convention
+
+
+ Spaces are not allowed while naming so we use these conventions.

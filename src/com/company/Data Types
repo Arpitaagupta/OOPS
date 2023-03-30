@@ -1,0 +1,13 @@
+Data Types in Java
+     --> 1. Primitive Data Type
+                (i) int : stores integer
+                (ii) byte : stores number, from -127 to 128
+                (iii) long : stores larger integer
+                (iv) float : stores decimal value
+                (v) double : stores larger decimal value
+                (vi) char : stores character
+                (vii) short : stores smaller integer value
+                (viii) bool : True/False
+
+     --> 2. Non Primitive Data Type
+                Non primitive data types are derive d from primitive data types.

@@ -1,0 +1,18 @@
+Anatomy of Java Program
+Documentation Section --> Suggested
+Example : Name of Author, Date, Quote
+
+Package Section --> It tells that class belongs to which package. (Optional)
+
+Import Statements --> Optional
+Example : to take input from your user, we need to import Scanner Class
+
+Interface Statements --> Optional
+
+Class Definitions --> Optional
+Example : MyScanner, Employee
+
+Main Method Class
+{
+    Main Method Definition     --> Essential
+}

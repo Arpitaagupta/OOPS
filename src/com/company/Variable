@@ -1,0 +1,21 @@
+Variable
+A variable is a container that stores a value. These values can be changed during execution of program.
+
+Rules fo declaring a variable name
+-->We can choose a name while declaring a Java variable if following rules are followed :
+1. Must not begin with a digit.
+    (1rray --> not allowed)
+
+2. Name is case sensitive
+    (Honey and honey are different)
+
+3. Should not be keyword.
+        (Reserved words are called keywords, e.g. for, void, static etc.)
+        (Void is acceptable)
+
+4. White space not allowed.
+    (int code with harry --> is not allowed,
+     codeWithHarry is allowed)
+
+5. Can contain alphabets, $ character, _ character and digits if other conditions are met.
+       ( int age2 is allowed)
